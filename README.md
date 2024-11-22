@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Moaz Ahmed
 
-🚀 **Backend Developer | Node.js | Java Spring Boot | MongoDB**
+🚀 | Backend Developer | Node.js | Java Spring Boot | MongoDB | MySQL
 
 Welcome to my GitHub! I'm a passionate backend developer with expertise in building scalable, reliable, and high-performance APIs using **Node.js** and **Java Spring Boot**. I specialize in creating robust systems, integrating APIs with databases like **MongoDB** and **MySQL**, and ensuring security and scalability.
 
