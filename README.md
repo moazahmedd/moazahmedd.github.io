@@ -1,3 +1,4 @@
+theme: jekyll-theme-minimal
 # moazahmedd.github.io
 Welcome to my personal portfolio! 
 
