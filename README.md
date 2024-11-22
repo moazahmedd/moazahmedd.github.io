@@ -10,4 +10,4 @@ I have experience in cloud computing, low-code platforms, and technology communi
 - Microsoft Power Platform
 
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/moazahmedd) or [GitHub](https://github.com/moazahmedd).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/moazahmedd/) or [GitHub](https://github.com/moazahmedd).
